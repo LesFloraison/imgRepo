@@ -41,5 +41,8 @@
     <Image Include="img\violet_440.png">
       <Filter>资源文件</Filter>
     </Image>
+    <Image Include="img\contre_jour_final2.png">
+      <Filter>资源文件</Filter>
+    </Image>
   </ItemGroup>
 </Project>

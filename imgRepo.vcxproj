@@ -144,6 +144,7 @@
   <ItemGroup>
     <Image Include="img\azaleas_440.png" />
     <Image Include="img\centaurea_440.png" />
+    <Image Include="img\contre_jour_final2.png" />
     <Image Include="img\hyacinth_440.png" />
     <Image Include="img\lotus_440.png" />
     <Image Include="img\rose_440.png" />
